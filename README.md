@@ -1,1 +1,1 @@
-# ELiteTech_Data_Analytics_Internship
+# ELiteTech-Data-Analytics-Internship
